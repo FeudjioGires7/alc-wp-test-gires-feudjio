@@ -21,7 +21,7 @@
             <button class="md:hidden block text-yellow-700" onclick="toggleMenu()">
                 ☰
             </button>
-            <ul id="nav-links" class="flex space-x-4 flex-col md:flex-row md:space-x-4 md:static absolute top-16 left-0 w-full bg-gray-400 md:bg-transparent p-4 md:p-0 hidden md:flex">
+            <ul id="nav-links" class="flex space-x-4 flex-col md:flex-row md:space-x-4 md:static absolute top-16 left-0 w-full bg-gray-200 md:bg-transparent p-4 md:p-0 hidden md:flex">
                 <li><a href="#" class="cursor-pointer hover:text-white">List des articles</a></li>
                 <li><a href="#" class="cursor-pointer hover:text-white">A Propos</a></li>
                 <li><a href="#" class="cursor-pointer hover:text-white">Commentaires</a></li>
