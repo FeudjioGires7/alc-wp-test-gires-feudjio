@@ -12,7 +12,7 @@
         }
     </script>
 </head>
-<body>
+<body class="bg-yellow-100">
     <header class="bg-blue-600 opacity-75 flex flex-row md:flex-row justify-between items-center p-4">
         <p class="text-white text-2xl font-bold">
             Hero <span class="text-yellow-700">ALC</span>
