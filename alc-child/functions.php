@@ -34,8 +34,8 @@
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
-        <p>
-            pour plus d'informations, visitez notre <a href="mailto:recrutement@alc.test" class="text-blue-500">Recrutement ALC Digital</a>.
+        <p class="mt-4">
+            Pour plus d'informations, visitez notre <a href="mailto:recrutement@alc.test" class="text-blue-500">Recrutement ALC Digital</a>.
         </p>
     </div>
 
