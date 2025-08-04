@@ -29,7 +29,7 @@
         </nav>
     </header>
 
-    <div class="container w-[75%] mx-auto p-4 bg-gray-100 rounded-lg shadow-lg mt-4">
+    <div class="w-[75%] mx-auto p-4 bg-gray-100 rounded-lg shadow-lg mt-4">
         <h1 class="text-center text-2xl">Bienvenu chez ALC Digital</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -39,7 +39,7 @@
         </p>
     </div>
 
-    <div class="container w-[70%] mx-auto mt-4 p-4 bg-gray-100 rounded-lg shadow-lg">
+    <div class="w-[70%] mx-auto mt-4 p-4 bg-gray-100 rounded-lg shadow-lg">
         <h1 class="text-2xl uppercase font-bold text-center">Temoignages</h1>
         <div id="testimonial-container" class="p-5 mb-5"></div>
         <div class="flex justify-between">
