@@ -28,10 +28,5 @@
             </ul>
         </nav>
     </header>
-    <div class="border-2 border-radius-2 border-red-500 p-4 w-[70%] mx-auto mt-4 rounded-xl">
-        <p class="my-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et in fugit fuga, at veritatis modi dolor nemo veniam alias minus sequi eligendi eveniet perferendis. Enim eum debitis aliquid molestias ad.</p>
-        <p class="my-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et in fugit fuga, at veritatis modi dolor nemo veniam alias minus sequi eligendi eveniet perferendis. Enim eum debitis aliquid molestias ad.</p>
-        <p class="my-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et in fugit fuga, at veritatis modi dolor nemo veniam alias minus sequi eligendi eveniet perferendis. Enim eum debitis aliquid molestias ad.</p>
-    </div>
 </body>
 </html>
