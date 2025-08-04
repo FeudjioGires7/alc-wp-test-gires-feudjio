@@ -38,5 +38,15 @@
             pour plus d'informations, visitez notre <a href="mailto:recrutement@alc.test" class="text-blue-500">Recrutement ALC Digital</a>.
         </p>
     </div>
+
+    <div class="container w-[50%] mx-auto mt-4 p-4 bg-gray-100 rounded-lg shadow-lg">
+        <h1 class="text-2xl uppercase font-bold text-center">Temoignages</h1>
+        <div id="testimonial-container" class="p-5 mb-5"></div>
+        <div class="flex justify-between">
+            <button id="prev-button" class="bg-gray-200 p-2 rounded-lg cursor-pointer">Précédent</button>
+            <button id="next-button" class="bg-gray-200 p-2 rounded-lg cursor-pointer">Suivant</button>
+        </div>
+    </div>
+    <script src="../testimonials.js"></script>
 </body>
 </html>
