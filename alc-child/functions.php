@@ -29,7 +29,7 @@
         </nav>
     </header>
 
-    <div class="container mx-auto p-4 bg-gray-100 rounded-lg shadow-lg mt-4">
+    <div class="container w-[50%] mx-auto p-4 bg-gray-100 rounded-lg shadow-lg mt-4">
         <h1 class="text-center text-2xl">Bienvenu chez ALC Digital</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
