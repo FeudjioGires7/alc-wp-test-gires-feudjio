@@ -1,0 +1,21 @@
+
+Theme Name: Twenty Twenty-One Child
+Theme URI: https://alc-wp-test-gires-feudjio-xj4k.vercel.app/
+Description: Twenty Twenty-One Child Theme
+Author: Feudjio Gires
+Author URI: https://alc-wp-test-gires-feudjio-xj4k.vercel.app/
+Template: twentytwentyone
+Version: 1.0.0
+/* Add your custom styles here */
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+p {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+}
