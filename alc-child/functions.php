@@ -13,8 +13,8 @@
     </script>
 </head>
 <body>
-    <header class="bg-green-400 opacity-75 flex flex-row md:flex-row justify-between items-center p-4">
-        <p>
+    <header class="bg-blue-600 opacity-75 flex flex-row md:flex-row justify-between items-center p-4">
+        <p class="text-white text-2xl font-bold">
             Hero <span class="text-yellow-700">ALC</span>
         </p>
         <nav class="flex justify-between items-center p-4">
@@ -28,5 +28,15 @@
             </ul>
         </nav>
     </header>
+
+    <div class="container mx-auto p-4 bg-gray-100 rounded-lg shadow-lg mt-4">
+        <h1 class="text-center text-2xl">Bienvenu chez ALC Digital</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+        <p>
+            pour plus d'informations, visitez notre <a href="mailto:recrutement@alc.test" class="text-blue-500">Recrutement ALC Digital</a>.
+        </p>
+    </div>
 </body>
 </html>
